@@ -23,7 +23,7 @@ Project is created with:
 
 ## Setup
 ### Run:
-$ gcc server.c - server
-$ gcc client.c -o client
+$ gcc server.c - server  
+$ gcc client.c -o client  
 $ ./server
 $ ./client
